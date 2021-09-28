@@ -1,0 +1,11 @@
+{
+  "teamMember": "Teamlid",
+  "teamMember_other": "Teamleden",
+
+  "gender_male": "Man",
+  "gender_female": "Vrouw",
+
+  "errors": {
+    "404": "Niet gevonden"
+  }
+}

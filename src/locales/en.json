@@ -1,0 +1,11 @@
+{
+  "teamMember": "Team member",
+  "teamMember_other": "Team members",
+
+  "gender_male": "Male",
+  "gender_female": "Female",
+
+  "errors": {
+    "404": "Not found"
+  }
+}
